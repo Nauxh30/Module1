@@ -14,8 +14,8 @@ men_stepped_on_the_moon=input()
 print(men_stepped_on_the_moon)
 ```
 ```
-Name:RAJA GOPAL V
-Reg No:212223240134
+Name:NAUSHEEN FATHIMA A
+Reg No:212224230179
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/4fff164d-cc9c-4bff-bfe2-978dc1959062)
