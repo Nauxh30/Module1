@@ -26,8 +26,8 @@ print("c:",c)
 print("d:",d)
 ```
 ```
-Name:RAJA GOPAL V
-Reg No:212223240134
+Name:NAUSHEEN FATHIMA A
+Reg No:212224230179
 ```
 
 ## Output
