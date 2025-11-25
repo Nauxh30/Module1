@@ -21,8 +21,8 @@ print(x.real)
 print(x.imag)
 ```
 ```
-Name:RAJA GOPAL V
-Reg No:212223240134
+Name:NAUSHEEN FATHIMA A
+Reg No:212224230179
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/09cdc94c-eedb-4489-9a72-81e2b32de711)
